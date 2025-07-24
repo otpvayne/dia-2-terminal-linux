@@ -20,3 +20,8 @@ mi-proyecto/
 ├── js/
 │ └── app.js
 └── img/
+
+git status                        # Verifica cambios pendientes
+git add README.md                # Marca README.md como listo para commit
+git commit -m "Mensaje claro"   # Guarda el cambio con un mensaje
+git push origin main            # Sube el cambio a GitHub
